@@ -1,0 +1,17 @@
+
+name="app_name">MyIntentApp
+name="move_activity">Pindah Activity
+name="move_with_data">Pindah Activity dengan Data
+name="move_with_object">Pindah Activity dengan Object
+name="dial_number">Dial a Number
+name="move_with_result">Pindah Activity untuk Result
+name="result_from_activity">Hasil dari Activity
+name="choose_number">Pilih angka yang kamu suka
+name="_50">50
+name="_100">100
+name="_150">150
+name="_200">200
+name="choose">Pilih
+name="data_received">Data Diterima
+name="object_received">Object Diterima
+name="this_is_moveactivity">Ini MoveActivity
